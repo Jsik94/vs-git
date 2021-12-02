@@ -6,7 +6,8 @@ PM WorkAREA
 
 
 Front End Area
-
+- add login Page
+- dev action using javascript
 
 
 
