@@ -2,7 +2,7 @@
 Hi my First vs gitt 
 
 
-#How to use github in VSCODE ?
+# How to use github in VSCODE ?
 
 - make Repo in Gitub
 
