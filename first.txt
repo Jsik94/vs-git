@@ -7,14 +7,14 @@ PM WorkAREA
 
 Front End Area
 - add login Page
-- dev action using javascript
+- dev action using javascript (REQUEST[BACKEND_PL]: ammend ajax)
 
 
 
 
 
 BackEnd Area
-- add User DTO
+- add User DTO (REQUEST[PM] : AMMEND DTO)
 - Dev Controller & Service
 
 
