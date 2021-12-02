@@ -3,7 +3,7 @@ This is First Text in vsRepo.
 PM WorkAREA
 
 - common works 
-
+- add Mybatis and ammend XML files
 
 Front End Area
 
