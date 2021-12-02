@@ -6,14 +6,16 @@ PM WorkAREA
 - add Mybatis and ammend XML files
 
 Front End Area
-
+- add login Page
+- dev action using javascript
 
 
 
 
 
 BackEnd Area
-
+- add User DTO
+- Dev Controller & Service
 
 
 
