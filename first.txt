@@ -14,7 +14,7 @@ Front End Area
 
 
 BackEnd Area
-- add User DTO (REQUEST[PM] : AMMEND DTO)
+- add User DTO (REQUEST[PM] : AMMEND DTO --> Fix Complete)
 - Dev Controller & Service
 - add Admin DTO
 - Working DAO...
