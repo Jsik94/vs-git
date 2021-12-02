@@ -4,10 +4,12 @@ PM WorkAREA
 
 - common works 
 - add Mybatis and ammend XML files
+- Server API Confirm
+
 
 Front End Area
 - add login Page
-- dev action using javascript (REQUEST[BACKEND_PL]: ammend ajax)
+- dev action using javascript (REQUEST[BACKEND_PL]: ammend ajax) -data check?
 
 
 
