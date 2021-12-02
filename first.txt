@@ -9,8 +9,8 @@ PM WorkAREA
 
 Front End Area
 - add login Page
-- dev action using javascript (REQUEST[BACKEND_PL]: ammend ajax) -data check?
-
+- dev action using javascript (REQUEST[BACKEND_PL]: ammend ajax --> delayed but Fix Complete)
+- work another paging....
 
 
 
